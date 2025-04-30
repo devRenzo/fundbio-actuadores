@@ -1,5 +1,10 @@
 📘 Control de Posición del Servomotor DS3235 con Arduino
 
+<p align="center">
+  <img src="servoDS3235.png" alt="Servomotor DS3235" width="600"><br>
+  <em>Figura 1. Servomotor DS3235.</em>
+</p>
+
 Este ejemplo permite controlar la posición angular de un servomotor de alto torque DS3235 mediante la función `writeMicroseconds()` de la librería Servo. Se programan cuatro posiciones representativas (0°, 90°, 180°, 270°) utilizando valores de pulso personalizados, adecuados para servos con mayor rango que los SG90 estándar. Este tipo de actuadores es útil en ortesis robóticas o dispositivos de asistencia mecánica en rehabilitación.
 
 🔧 ¿Qué es el servomotor DS3235?

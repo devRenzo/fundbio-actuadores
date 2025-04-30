@@ -1,5 +1,10 @@
 📘 Control del Servomotor DS3235 mediante Potenciómetro y PWM
 
+<p align="center">
+  <img src="servoDS3235.png" alt="Servomotor DS3235" width="600"><br>
+  <em>Figura 1. Servomotor DS3235.</em>
+</p>
+
 Este ejemplo permite controlar la posición angular de un servomotor DS3235 utilizando un potenciómetro conectado a un pin analógico de un Arduino. El valor leído (ADC) se convierte directamente en una señal PWM en microsegundos, aplicada al servo mediante la función `writeMicroseconds()`. El ángulo estimado resultante se calcula solo con fines de visualización en el monitor serial.
 
 ---
