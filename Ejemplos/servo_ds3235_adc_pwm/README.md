@@ -74,23 +74,22 @@ Este programa:
 
 📊 Fundamento matemático
 
-La relación entre el ancho del pulso (en microsegundos) y el ángulo del servomotor es **lineal**, y puede representarse como una **ecuación de la recta entre dos puntos** conocidos:
+La relación entre el ancho del pulso (en microsegundos) y el ángulo del servomotor es **lineal**, y puede representarse como una **ecuación de la recta entre dos puntos** conocidos o fórmula general de interpolación:
 
 | Pulso (µs) | Ángulo (°) |
 |------------|-------------|
 | 500        | 0°          |
 | 2400       | 265°        |
 
-Fórmula aplicada:
+<p align="center">
+  <img src="plot.png" alt="Relación entre ancho de pulso PWM y ángulo del servomotor DS3235" width="400"><br>
+  <em>Figura 2. Relación entre ancho de pulso PWM y ángulo del servomotor DS3235.</em>
+</p>
 
-\[
-\theta(p) = \frac{(p - PULSO\_MIN) \cdot ANGULO\_MAX}{PULSO\_MAX - PULSO\_MIN}
-\]
-
-Donde:
-- \( p \) es el valor de PWM generado
-- \( \theta \) es el ángulo estimado
-- \( PULSO\_MIN \), \( PULSO\_MAX \), y \( ANGULO\_MAX \) son constantes calibradas
+<p align="center">
+  <img src="equation.png" alt="Ecuación general de interpolación" width="400"><br>
+  <em>Figura 3. Ecuación general de interpolación o de la recta entre 02 puntos.</em>
+</p>
 
 Esto permite visualizar el ángulo sin tener que controlarlo directamente, y es útil para validar que el servo responde correctamente a diferentes señales.
 
