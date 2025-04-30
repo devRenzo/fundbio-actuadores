@@ -17,7 +17,7 @@ La **PWM** es una técnica que permite regular la cantidad de energía que se en
 🔗 Recursos recomendados:
 
 **1. “PWM: Pulse Width Modulation” – SparkFun**  
-> [https://learn.sparkfun.com/tutorials/pulse-width-modulation](https://learn.sparkfun.com/tutorials/pulse-width-modulation)
+> [https://learn.sparkfun.com/tutorials/pulse-width-modulation](https://learn-sparkfun-com.translate.goog/tutorials/pulse-width-modulation/all?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
 
 **2. “PWM en Arduino” – Control Automático Educación**  
 > [https://controlautomaticoeducacion.com/sistemas-embebidos/arduino/pwm-arduino/](https://controlautomaticoeducacion.com/sistemas-embebidos/arduino/pwm-arduino/)
@@ -38,7 +38,7 @@ Un transistor en modo saturación funciona como un **interruptor digital**. Es l
 🔗 Recurso recomendado:
 
 **“Using Transistors to Control High-Current Loads with an Arduino” – SparkFun**  
-> [https://learn.sparkfun.com/tutorials/transistors](https://learn.sparkfun.com/tutorials/transistors)
+> [https://learn.sparkfun.com/tutorials/transistors](https://learn-sparkfun-com.translate.goog/tutorials/transistors/operation-modes?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
 
 Este artículo cubre:
 
