@@ -1,5 +1,10 @@
 📘 Control de Velocidad del Motor GA12-N20 con Potenciómetro y Arduino
 
+<p align="center">
+  <img src="image.png" alt="Motor DC + L298N" width="600"><br>
+  <em>Figura 1. Motor GA12-N20 con Arduino y L298N.</em>
+</p>
+
 Este ejemplo permite controlar la velocidad de un motorreductor DC tipo GA12-N20 utilizando un potenciómetro conectado a una entrada analógica de Arduino. La lectura del potenciómetro se convierte en una señal PWM aplicada al módulo controlador L298N. Además, el valor analógico y el PWM generado se muestran en el monitor serial, permitiendo un análisis en tiempo real.
 
 🔧 ¿Qué es un potenciómetro?

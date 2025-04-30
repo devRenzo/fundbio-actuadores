@@ -1,5 +1,10 @@
 📘 Control de Dirección y Velocidad del Motor GA12-N20 con Arduino y L298N
 
+<p align="center">
+  <img src="image.png" alt="Motor DC + L298N" width="600"><br>
+  <em>Figura 1. Motor GA12-N20 con Arduino y L298N.</em>
+</p>
+
 Este ejemplo permite controlar tanto el sentido de giro como la velocidad de un motorreductor DC GA12-N20 utilizando un Arduino UNO y un módulo L298N. Se emplea una señal PWM (modulación por ancho de pulso) para ajustar la velocidad del motor, y se alterna el sentido de rotación cada 5 segundos. Esta estrategia puede aplicarse a sistemas biomédicos de bombeo, movilidad o rehabilitación mecánica.
 
 🔧 ¿Qué es un motor GA12-N20?

@@ -1,7 +1,7 @@
 📘 Control de Dirección del Motor GA12-N20 con Arduino y L298N
 
 <p align="center">
-  <img src="image.png" alt="Motor DC + L298N" width="800"><br>
+  <img src="image.png" alt="Motor DC + L298N" width="600"><br>
   <em>Figura 1. Motor GA12-N20 con Arduino y L298N.</em>
 </p>
 
