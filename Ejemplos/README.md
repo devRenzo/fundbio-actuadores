@@ -1,5 +1,10 @@
 # 🧪 Ejemplos de Actuadores — Fundamentos de Biodiseño
 
+<p align="center">
+  <img src="image.png" alt="Actudaores" width="600"><br>
+  <em>Figura 1. Taller de actuadores con Arduino.</em>
+</p>
+
 Este directorio contiene ejemplos prácticos para el taller de **actuadores eléctricos** del curso **Fundamentos de Biodiseño**. Cada ejercicio permite explorar el funcionamiento y control básico de **micromotores DC**, **motores de vibración** y **servomotores**, aplicando principios de electrónica en contextos biomédicos.
 
 Cada carpeta incluye:
