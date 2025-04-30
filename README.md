@@ -45,9 +45,6 @@ Cada carpeta incluye:
 - `README.md` con descripción técnica
 - Esquema de conexión y aplicaciones biomédicas sugeridas
 
-### 🔸 `README.md`
-Este documento principal que estás leyendo: guía general del taller, su propósito y cómo navegar el repositorio.
-
 ---
 
 ## 🧪 Fundamentos teóricos integrados
