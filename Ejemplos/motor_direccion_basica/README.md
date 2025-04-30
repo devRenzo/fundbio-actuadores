@@ -1,5 +1,10 @@
 📘 Control de Dirección del Motor GA12-N20 con Arduino y L298N
 
+<p align="center">
+  <img src="image.png" alt="Motor DC + L298N" width="800"><br>
+  <em>Figura 1. Motor GA12-N20 con Arduino y L298N.</em>
+</p>
+
 Este ejemplo permite alternar el sentido de giro de un motorreductor DC GA12-N20 mediante un módulo controlador de motores L298N, sin controlar la velocidad. El sistema ejecuta un cambio de dirección cada 5 segundos, lo cual permite simular mecanismos biomédicos que requieren inversión de movimiento como válvulas alternantes o dispositivos de tracción reversibles.
 
 🔧 ¿Qué es un motor GA12-N20?
