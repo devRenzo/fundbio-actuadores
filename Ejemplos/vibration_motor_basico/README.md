@@ -1,5 +1,10 @@
 📘 Activación Básica de un Micromotor de Vibración con Arduino
 
+<p align="center">
+  <img src="image.png" alt="micro motor vibrador" width="600"><br>
+  <em>Figura 1. micro motor vibrador.</em>
+</p>
+
 Este ejemplo muestra cómo activar un micromotor de vibración (tipo coin cell) utilizando un Arduino UNO y un transistor NPN como interruptor. Se trata de una implementación básica de retroalimentación háptica, común en dispositivos biomédicos como alarmas silenciosas o señales táctiles en interfaces hombre-máquina.
 
 🔧 ¿Qué es un micromotor de vibración?

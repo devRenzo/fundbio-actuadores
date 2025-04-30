@@ -1,5 +1,10 @@
 📘 Control de Intensidad de Vibración con Potenciómetro y Arduino
 
+<p align="center">
+  <img src="image.png" alt="micro motor vibrador" width="600"><br>
+  <em>Figura 1. micro motor vibrador.</em>
+</p>
+
 Este ejemplo permite controlar la intensidad de vibración de un micromotor tipo coin cell utilizando un potenciómetro como entrada de usuario. La señal analógica se convierte en una señal PWM que regula la energía entregada al motor a través de un transistor. El sistema permite simular un control háptico proporcional, ideal para interfaces biomédicas de retroalimentación sensorial.
 
 🔧 ¿Qué es un actuador vibratorio?
