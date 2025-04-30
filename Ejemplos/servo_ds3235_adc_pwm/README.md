@@ -82,12 +82,12 @@ La relación entre el ancho del pulso (en microsegundos) y el ángulo del servom
 | 2400       | 265°        |
 
 <p align="center">
-  <img src="plot.png" alt="Relación entre ancho de pulso PWM y ángulo del servomotor DS3235" width="400"><br>
+  <img src="plot.png" alt="Relación entre ancho de pulso PWM y ángulo del servomotor DS3235" width="800"><br>
   <em>Figura 2. Relación entre ancho de pulso PWM y ángulo del servomotor DS3235.</em>
 </p>
 
 <p align="center">
-  <img src="equation.png" alt="Ecuación general de interpolación" width="400"><br>
+  <img src="equation.png" alt="Ecuación general de interpolación" width="800"><br>
   <em>Figura 3. Ecuación general de interpolación o de la recta entre 02 puntos.</em>
 </p>
 
