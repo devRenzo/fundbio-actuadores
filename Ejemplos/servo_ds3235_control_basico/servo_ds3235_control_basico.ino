@@ -1,3 +1,19 @@
+/*
+ ============================================================================
+ Título      : Control angular del servomotor DS3235 con Arduino
+ Descripción : Este código permite mover un servomotor de alto torque DS3235 
+               a distintas posiciones angulares usando la función writeMicroseconds(). 
+               Se especifican valores de ancho de pulso aproximados para alcanzar 
+               0°, 90°, 180° y 270°, simulando el control de articulaciones robóticas.
+ ----------------------------------------------------------------------------
+ Docente     : Renzo Chan Ríos / Lewis De La Cruz
+ Curso       : Fundamentos de Biodiseño
+ Universidad : Universidad Peruana Cayetano Heredia (UPCH)
+ Año         : 2025
+ Versión     : 0.1
+ ============================================================================
+*/
+
 #include <Servo.h>  // Incluye la librería Servo para controlar el servomotor
 
 /*
@@ -40,3 +56,4 @@ void loop() {
   miServo.writeMicroseconds(2400);
   delay(5000);
 }
+

@@ -27,7 +27,7 @@ Un micromotor de vibración es un actuador que genera movimiento vibratorio al g
 
 💻 Código del ejemplo
 
-Consulta el archivo: `micro_motor_basic.ino`
+Consulta el archivo: `vibration_motor_basico.ino`
 
 Este programa:
 
