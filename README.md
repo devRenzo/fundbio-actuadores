@@ -5,7 +5,7 @@
   <em>Figura 1. Taller de actuadores electromecánicos con Arduino.</em>
 </p>
 
-Este repositorio contiene el material completo del **Taller de Actuadores** del curso **Fundamentos de Biodiseño**, dictado en el 4.º ciclo de la carrera de Ingeniería Biomédica en la Universidad Peruana Cayetano Heredia (UPCH).
+Este repositorio contiene el material completo del **Taller de Actuadores** del curso **Fundamentos de (Bio)diseño**, dictado en el 4.º ciclo de la carrera de Ingeniería Biomédica en la Universidad Peruana Cayetano Heredia (UPCH).
 
 ---
 
@@ -86,7 +86,7 @@ Los principios vistos aquí se aplican en el diseño de:
 
 ## 🧑‍🏫 Créditos
 
-Este material fue desarrollado para el curso **Fundamentos de Biodiseño**  
+Este material fue desarrollado para el curso **Fundamentos de (Bio)diseño**  
 **Docentes**: Renzo Chan Ríos / Lewis De La Cruz  
 **Universidad Peruana Cayetano Heredia (UPCH)** — 2025  
 Versión: 1.0
