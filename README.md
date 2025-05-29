@@ -1,4 +1,4 @@
-# ⚙️ Taller de Actuadores — Fundamentos de Biodiseño
+# ⚙️ Taller de Actuadores — Fundamentos de (Bio)diseño
 
 <p align="center">
   <img src="image.png" alt="Taller de actuadores electromecánicos con Arduino" width="600"><br>
@@ -17,7 +17,7 @@ Fortalecer competencias en electrónica aplicada al diseño y control de **actua
 
 ## 🧩 ¿Qué aprenderás?
 
-- Principios de funcionamiento de actuadores biomédicos simples
+- Principios de funcionamiento de actuadores simples
 - Control de velocidad, dirección y posición mediante Arduino
 - Uso de PWM para regulación de energía
 - Conversión de señales analógicas con el ADC
